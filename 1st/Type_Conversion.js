@@ -43,3 +43,6 @@ console.log(remainder); // Output: 1
 let exponentiation = a ** b;
 console.log(exponentiation); // Output: 25
 
+console.log("5" + 2 + 3); // Output: 523
+console.log(5 + 2 + "3"); // Output: 73
+
